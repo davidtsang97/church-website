@@ -66,7 +66,7 @@ export default function BirminghamPage() {
             </h2>
 
             {/* 仁愛主日主题 */}
-            <div className="bg-[#FFCB32] py-12 mb-8 rounded-xl">
+            {/* <div className="bg-[#FFCB32] py-12 mb-8 rounded-xl">
               <div className="text-center">
                 <h3 className="text-3xl font-bold text-gray-800 mb-8 tracking-wide">
                   仁愛主日
@@ -92,7 +92,7 @@ export default function BirminghamPage() {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
 
             {/* 仁愛主日描述 */}
             <div className="prose max-w-none text-center text-gray-700 mb-12">
