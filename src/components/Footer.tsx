@@ -7,49 +7,19 @@ export default function Footer() {
         {/* 外部链接 */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           <div>
-            <h3 className="text-lg font-semibold mb-4">外部連結</h3>
-            <ul className="space-y-2">
-              <li>
-                <a
-                  href="https://scoan.org"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="hover:text-gray-300"
-                >
-                  SCOAN - The Synagogue, Church Of All Nations
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://www.yoido.or.kr"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="hover:text-gray-300"
-                >
-                  韓國汝矣島純福音教會
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://www.reinhardbonnke.net"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="hover:text-gray-300"
-                >
-                  布永康牧師官方網站
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://www.facebook.com/yourpage"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="hover:text-gray-300"
-                >
-                  宜方Facebook專頁
-                </a>
-              </li>
-            </ul>
+            <h3 className="text-lg font-semibold mb-4">英國伯明翰堂</h3>
+            <div className="space-y-4">
+              <div>
+                <p className="font-medium">聚會地點：</p>
+                <p className="text-gray-300">
+                  Connection Church Centre, Cooks Lane, B37 6NP
+                </p>
+              </div>
+              <div>
+                <p className="font-medium">聚會時間：</p>
+                <p className="text-gray-300">星期日 下午1時半至3時半 (粵) </p>
+              </div>
+            </div>
           </div>
 
           {/* 元朗堂和屯门堂 */}

@@ -133,14 +133,14 @@ export default function BirminghamPage() {
             <p className="text-lg text-gray-600">
               英國伯明翰分部
               <br />
-              地址：123 Church Street, Birmingham, UK
+              地址：Connection Church Centre, Cooks Lane, B37 6NP
             </p>
           </div>
 
           {/* Google Maps 嵌入 */}
           <div className="w-full h-[400px] rounded-xl overflow-hidden shadow-lg">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2432.1234567890123!2d-1.902345678901234!3d52.48623456789012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870d1234567890%3A0xabcdef1234567890!2sChurch%20Name!5e0!3m2!1sen!2suk!4v1234567890123!5m2!1sen!2suk"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2429.4699578591076!2d-1.7456904878081334!3d52.488732071936475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870b04565f36a6d%3A0x6851f4c3a224d3ae!2sConnection%20Church%20Centre%20-%20Kingshurst%20-%20Solihull%20-%20Birmingham!5e0!3m2!1sen!2shk!4v1744386640985!5m2!1sen!2shk"
               width="100%"
               height="100%"
               style={{ border: 0 }}

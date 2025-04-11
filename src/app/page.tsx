@@ -60,7 +60,7 @@ export default function Home() {
               href="/join/birmingham"
               className="w-full sm:w-auto inline-flex items-center justify-center px-6 py-3 border border-transparent text-sm sm:text-base font-medium rounded-full text-gray-800 bg-[#FFCB32] hover:bg-[#FFCB32]/90 transition-all duration-300 transform hover:scale-105 shadow-md"
             >
-              為下一代找到適合的聚會
+              想找到適合華人的聚會
             </a>
           </div>
 

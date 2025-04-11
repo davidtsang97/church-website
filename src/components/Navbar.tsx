@@ -90,20 +90,20 @@ export default function Navbar() {
               <UserGroupIcon className="h-5 w-5 mr-2" />
               加入我們
             </Link>
-            <Link
+            {/* <Link
               href="/events"
               className="inline-flex items-center px-4 py-2 text-gray-700 hover:text-blue-600 border-b-2 border-transparent hover:border-blue-600 transition-colors duration-300"
             >
               <CalendarIcon className="h-5 w-5 mr-2" />
               近期活動
-            </Link>
-            <Link
+            </Link> */}
+            {/* <Link
               href="/sermons"
               className="inline-flex items-center px-4 py-2 text-gray-700 hover:text-blue-600 border-b-2 border-transparent hover:border-blue-600 transition-colors duration-300"
             >
               <PlayIcon className="h-5 w-5 mr-2" />
               最新講道
-            </Link>
+            </Link> */}
             <Link
               href="/about"
               className="inline-flex items-center px-4 py-2 text-gray-700 hover:text-blue-600 border-b-2 border-transparent hover:border-blue-600 transition-colors duration-300"
