@@ -105,7 +105,7 @@ export default function BirminghamPage() {
             {/* 行动按钮 */}
             <div className="flex justify-center">
               <a
-                href="https://wa.me/85251610604?text=你好%20我想參與英國伯明翰主日聚會"
+                href="https://wa.me/85293412164?text=你好%20我想了解一下伯明翰主日聚會資訊"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center px-8 py-4 border border-transparent text-lg font-medium rounded-lg text-gray-800 bg-[rgb(255,203,50)] hover:bg-[rgb(255,203,50,0.9)] transition-all duration-300 transform hover:scale-105"
