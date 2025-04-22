@@ -57,7 +57,7 @@ export default function Home() {
               我在香港聚會
             </h3>
             <a
-              href="/join/birmingham"
+              href="/join/birmingham/"
               className="w-full sm:w-auto inline-flex items-center justify-center px-6 py-3 border border-transparent text-sm sm:text-base font-medium rounded-full text-gray-800 bg-[#FFCB32] hover:bg-[#FFCB32]/90 transition-all duration-300 transform hover:scale-105 shadow-md"
             >
               想找到適合華人的聚會
@@ -70,13 +70,13 @@ export default function Home() {
             </h3>
             <div className="flex flex-col gap-3 sm:gap-4 w-full sm:w-auto">
               <a
-                href="/join/birmingham"
+                href="/join/birmingham/"
                 className="w-full sm:w-auto inline-flex items-center justify-center px-6 py-3 border border-transparent text-sm sm:text-base font-medium rounded-full text-gray-800 bg-[#FFCB32] hover:bg-[#FFCB32]/90 transition-all duration-300 transform hover:scale-105 shadow-md"
               >
                 伯明翰兒童主日
               </a>
               <a
-                href="/join/birmingham"
+                href="/join/birmingham/"
                 className="w-full sm:w-auto inline-flex items-center justify-center px-6 py-3 border border-transparent text-sm sm:text-base font-medium rounded-full text-gray-800 bg-[#FFCB32] hover:bg-[#FFCB32]/90 transition-all duration-300 transform hover:scale-105 shadow-md"
               >
                 伯明翰青少年團契

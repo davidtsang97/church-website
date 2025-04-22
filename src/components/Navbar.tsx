@@ -84,7 +84,7 @@ export default function Navbar() {
           {/* 桌面端导航 */}
           <div className="hidden lg:flex lg:items-center lg:space-x-8">
             <Link
-              href="/join/birmingham"
+              href="/join/birmingham/"
               className="inline-flex items-center px-4 py-2 text-gray-700 hover:text-blue-600 border-b-2 border-transparent hover:border-blue-600 transition-colors duration-300"
             >
               <UserGroupIcon className="h-5 w-5 mr-2" />
