@@ -24,16 +24,16 @@ export default function About() {
       </div>
 
       {/* 教会介绍 */}
-      <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
+      {/* <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
         <div className="prose max-w-none">
           <p className="text-gray-600 text-lg leading-relaxed">
-            神召會仁愛福音教會於2000年由林春和牧師創立。在過去的二十多年裡，我們從一個小型聚會發展成為擁有五個分堂的教會群體。我們相信禱告的力量，並致力於在社區中傳揚福音，建立充滿愛的信仰群體。
+            神召會基要信仰
           </p>
         </div>
-      </div>
+      </div> */}
 
       {/* 牧师介绍 */}
-      <div className="bg-gray-50">
+      {/* <div className="bg-gray-50">
         <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
             <div className="relative h-[400px]">
@@ -45,9 +45,11 @@ export default function About() {
               />
             </div>
             <div>
-              <h2 className="text-3xl font-bold text-gray-900 mb-4">
-                林春和牧師
-              </h2>
+              {
+                <h2 className="text-3xl font-bold text-gray-900 mb-4">
+                  神召會基要信仰十六條
+                </h2>
+              }
               <p className="text-xl text-gray-600 mb-4">主任牧師</p>
               <p className="text-gray-600 leading-relaxed">
                 林春和牧師於二零零零年創立神召會仁愛福音教會，現時有五間分堂，分別於上水、屯門、旺角、觀塘及英國伯明翰地區，同工十多人，每週有超過一千二百信徒聚集參與崇拜。信徒以青年人為主。創會初期各堂時有不合，唯於二零零七年林牧師在聖靈引導下，參加訪韓禱告特會，領受未來帶領教會之方向異象，返港後便推動教會肢體組團參與，其後更自發組織晨更禱告會，早上四時三十分便開始禱告，成為教會事工一大動力。自此以後，教會迅速發展，聚會人數不斷加增，分堂之間少見分歧，大家同心興旺福音。現時每年恆常組織訪韓團隊，於不同月份出發前往禱告山學習。
@@ -55,7 +57,70 @@ export default function About() {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
+
+      {/*  */}
+
+      {/* 添加基本信仰部分 */}
+      <section className="py-16 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">神召會</h2>
+            <p className="text-xl text-gray-600">
+              1914年，神召會先賢在美國亞肯色州熱泉市的創會會議上表明神召會的成立目的：
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div className="bg-white p-6 rounded-lg shadow-md">
+              <h3 className="text-xl font-semibold text-gray-900 mb-4">
+                1. 闡述可被捍衛的五旬宗信仰立場；
+              </h3>
+              {/* <p className="text-gray-600">
+                聖經──舊約和新約──是上帝逐字默示的，乃是上帝向人的啟示，是無謬誤的﹑具權威性的信仰和生活法則(帖前二13；提後三15-17；彼後一21)。
+              </p> */}
+            </div>
+
+            <div className="bg-white p-6 rounded-lg shadow-md">
+              <h3 className="text-xl font-semibold text-gray-900 mb-4">
+                2.
+                促進五旬宗牧者的相交關係，彼此支持以致五旬宗的工作被鞏固與保存；
+              </h3>
+              {/* <p className="text-gray-600">
+                獨一真神自我啟示為那位自有的「我是」、天地的創造主和人類的救贖主。祂更進一步具體地以父、子和聖靈來啟示自己是關係和聯合的源頭(申六4；賽四十三10，11；太廿八19；路三22)。
+              </p> */}
+            </div>
+
+            <div className="bg-white p-6 rounded-lg shadow-md">
+              <h3 className="text-xl font-semibold text-gray-900 mb-4">
+                3. 設立中央化海外宣教組織支援前線的宣教士；
+              </h3>
+              {/* <p className="text-gray-600">
+                主耶穌基督上帝永活之子。《聖經》宣示：祂由童貞女所生(太一23；路一31，35)。祂未有犯罪(來七26；彼前二22)。祂行神蹟(徒二22；十38)。祂在十架代死(林前十五3；林後五21)。祂從死裡復活(太廿八6；路廿四39；林前十五4)。祂高升坐在上帝右邊(徒一9，11；二33；腓二9-11；來一3)。
+              </p> */}
+            </div>
+
+            <div className="bg-white p-6 rounded-lg shadow-md">
+              <h3 className="text-xl font-semibold text-gray-900 mb-4">
+                4. 開辦認可的聖經學院培訓未來的牧者與教會領袖；
+              </h3>
+              {/* <p className="text-gray-600">
+                
+              </p> */}
+            </div>
+
+            <div className="bg-white p-6 rounded-lg shadow-md">
+              <h3 className="text-xl font-semibold text-gray-900 mb-4">
+                5.
+                建立新的宗派組織作為新皮袋，致使聖經的新酒及五旬節復興的果子得以保存。
+              </h3>
+              {/* <p className="text-gray-600">
+                上帝的兒子耶穌基督流出的寶血，是人類得救的惟一希望。向上帝認罪，並且信靠主耶穌基督，便可得救。借著重生的洗，和聖靈的更新。人本乎恩，因信稱義，借著永生的盼望，成爲上帝的後嗣(路廿四47；約三3；十13-15；弗二8；多二11；三5-7)。
+              </p> */}
+            </div>
+          </div>
+        </div>
+      </section>
 
       <Footer />
     </main>

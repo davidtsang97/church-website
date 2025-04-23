@@ -17,13 +17,13 @@ export default function Footer() {
               </div>
               <div>
                 <p className="font-medium">聚會時間：</p>
-                <p className="text-gray-300">星期日 下午1時半至3時半 (粵) </p>
+                <p className="text-gray-300">星期日 下午1時半至3時 (粵) </p>
               </div>
             </div>
           </div>
 
           {/* 元朗堂和屯门堂 */}
-          <div>
+          {/* <div>
             <h3 className="text-lg font-semibold mb-4">元朗堂 & 屯門堂</h3>
             <div className="space-y-4">
               <div>
@@ -38,10 +38,10 @@ export default function Footer() {
                 <p className="text-gray-300">屯門堂：星期日上午十時半</p>
               </div>
             </div>
-          </div>
+          </div> */}
 
           {/* 旺角堂和上水堂 */}
-          <div>
+          {/* <div>
             <h3 className="text-lg font-semibold mb-4">旺角堂 & 上水堂</h3>
             <div className="space-y-4">
               <div>
@@ -58,10 +58,10 @@ export default function Footer() {
                 <p className="text-gray-300">查詢電話：2470 0587</p>
               </div>
             </div>
-          </div>
+          </div> */}
 
           {/* 观塘堂 */}
-          <div>
+          {/* <div>
             <h3 className="text-lg font-semibold mb-4">觀塘堂</h3>
             <div className="space-y-4">
               <div>
@@ -75,7 +75,7 @@ export default function Footer() {
                 <p className="text-gray-300">星期六、日（分時段進行）</p>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
 
         {/* 版权信息 */}
