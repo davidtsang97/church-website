@@ -2,12 +2,11 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ['images.unsplash.com'],
     unoptimized: true,
+    domains: ['images.unsplash.com'],
   },
   trailingSlash: true,
   basePath: '',
-  output: 'export',
 }
 
 module.exports = nextConfig

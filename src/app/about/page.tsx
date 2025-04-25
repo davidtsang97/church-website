@@ -33,7 +33,7 @@ export default function About() {
       </div> */}
 
       {/* 牧师介绍 */}
-      {/* <div className="bg-gray-50">
+      <div className="bg-gray-50">
         <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
             <div className="relative h-[400px]">
@@ -47,17 +47,19 @@ export default function About() {
             <div>
               {
                 <h2 className="text-3xl font-bold text-gray-900 mb-4">
-                  神召會基要信仰十六條
+                  伯明翰神召會仁愛福音教會
                 </h2>
               }
-              <p className="text-xl text-gray-600 mb-4">主任牧師</p>
+              {/* <p className="text-xl text-gray-600 mb-4">主任牧師</p> */}
               <p className="text-gray-600 leading-relaxed">
-                林春和牧師於二零零零年創立神召會仁愛福音教會，現時有五間分堂，分別於上水、屯門、旺角、觀塘及英國伯明翰地區，同工十多人，每週有超過一千二百信徒聚集參與崇拜。信徒以青年人為主。創會初期各堂時有不合，唯於二零零七年林牧師在聖靈引導下，參加訪韓禱告特會，領受未來帶領教會之方向異象，返港後便推動教會肢體組團參與，其後更自發組織晨更禱告會，早上四時三十分便開始禱告，成為教會事工一大動力。自此以後，教會迅速發展，聚會人數不斷加增，分堂之間少見分歧，大家同心興旺福音。現時每年恆常組織訪韓團隊，於不同月份出發前往禱告山學習。
+                感謝神的帶領，我們在2025年開始了英國伯明输聚會，每逢星期日，下午一時半至三時，在Connection
+                Church Centre （B37
+                6NP），舉行廣東話主日崇拜，歡迎你來參加。（以上聚會資料，已上載英國裝角，方便查詢。）我們帶領會眾以「禱告、讀經、傳福音」為根本，以現代詩歌敬拜，以小組教會牧養模式，建立榮神益人的教會。
               </p>
             </div>
           </div>
         </div>
-      </div> */}
+      </div>
 
       {/*  */}
 
