@@ -31,9 +31,11 @@ export default function Navbar() {
                 </div>
                 <div className="flex flex-col">
                   <span className="text-2xl font-bold text-gray-800 group-hover:text-blue-600 transition-colors duration-300">
-                    神召會仁愛福音教會
+                    伯明翰神召會仁愛福音教會
                   </span>
-                  <span className="text-sm text-gray-500">伯明翰堂</span>
+                  <span className="text-3xl font-medium text-gray-600 tracking-wide hover:text-blue-600 transition-colors duration-300">
+                    伯明翰堂
+                  </span>
                 </div>
               </Link>
             </div>

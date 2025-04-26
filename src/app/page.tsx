@@ -29,7 +29,7 @@ export default function Home() {
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white text-center mb-4 sm:mb-6">
             歡迎來到
             <br />
-            神召會仁愛福音教會
+            伯明翰神召會仁愛福音教會
           </h1>
           <p className="text-lg sm:text-xl md:text-2xl text-white text-center max-w-2xl mx-auto">
             歡迎參與我們的主日崇拜！

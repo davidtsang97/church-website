@@ -81,7 +81,7 @@ export default function Footer() {
         {/* 版权信息 */}
         <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
           <p>
-            © {new Date().getFullYear()} 神召會仁愛福音教會. All rights
+            © {new Date().getFullYear()} 伯明翰神召會仁愛福音教會. All rights
             reserved.
           </p>
         </div>
